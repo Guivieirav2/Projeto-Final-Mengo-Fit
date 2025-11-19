@@ -46,4 +46,5 @@ Para visualizar e testar o projeto em seu ambiente local ou via GitHub Pages, si
 
 ### 1. Clique no Link abaixo 
 
-url:https://paulovinicius-dev.github.io/Projeto-Final-Mengo-Fit/
+url:https://guivieirav2.github.io/Projeto-Final-Mengo-Fit/
+
